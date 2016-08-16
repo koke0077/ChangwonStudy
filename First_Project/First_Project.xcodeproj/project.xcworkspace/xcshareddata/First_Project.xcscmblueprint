@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C0BF47E5115FBD8C6A5303BF0604C28C95DD4064",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C0BF47E5115FBD8C6A5303BF0604C28C95DD4064" : 0,
+    "CBDE90E1F7A54873BF0853DFF0B88BE96D26A340" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C30F692A-D087-4E35-98E1-3096236528B1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C0BF47E5115FBD8C6A5303BF0604C28C95DD4064" : "ChangwonStudy\/",
+    "CBDE90E1F7A54873BF0853DFF0B88BE96D26A340" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "First_Project",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "First_Project\/First_Project.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/koke0077\/ChangwonStudy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C0BF47E5115FBD8C6A5303BF0604C28C95DD4064"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Kimsungjun\/plantview.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CBDE90E1F7A54873BF0853DFF0B88BE96D26A340"
+    }
+  ]
+}
